@@ -43,7 +43,7 @@
 <p align="left">- Modulos (librerías) Python : TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Keras, NLTK.<br>- Modulos (librerías) R : ggplot2, dplyr, tidyr, caret, randomForest, arules, neuralnet, forecast.<br>- Herramientas de inteligencia empresarial y visualización de datos : Tableau, Power BI, Looker.</p>
 
 
-![BI.jpg](https://github.com/Euler81/Euler81/blob/main/BI.jpg)
+
 
 
 ###
