@@ -89,7 +89,7 @@
 <p align="left">¡Estoy abierto a contribuciones! Si encuentras algún error, tienes sugerencias para mejoras o deseas contribuir de alguna manera, no dudes en crear una solicitud de extracción (pull request) o abrir un problema (issue).</p>
 
 <div align="center">
-  <img height="213" src="https://labibliotecadealexandria.com/wp-content/uploads/2022/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif"  />
+  <img height="213" src="https://github.com/Euler81/Euler81/blob/main/git%202.gif"  />
 </div>
 
 ###
