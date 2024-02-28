@@ -1,4 +1,4 @@
-![git.jpg](https://github.com/Euler81/Euler81/blob/main/git.jpg)
+![git1.gif](https://github.com/Euler81/Euler81/blob/main/git1.gif)
 
 
 
