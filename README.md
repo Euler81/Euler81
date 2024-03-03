@@ -16,8 +16,6 @@
 
 <p align="left">- Estadística.<br>- Bases de Datos - relacionales / no relacionales.<br>- Limpieza y Preprocesamiento de Datos.<br>- Análisis Exploratorio de Datos (EDA).<br>- Construcción y Evaluación de Modelos de Aprendizaje Automático.<br>- Implementación de Modelos de Aprendizaje Automático.<br>- Ingeniería y Selección de Características.<br>- Interpretación de Resultados de Modelos.<br>- Visualización e Interpretación de Datos.<br>- Gestión de Proyectos y Documentación.<br>- Habilidades de Presentación y Comunicación.<br>- Resolución de Problemas y Pensamiento Crítico en contextos de Data Science.</p>
 
-
-
 ###
 
 <div align="left">
@@ -25,18 +23,25 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-
-
 ###
+
+
+
+
+
 
 <br clear="both">
 
