@@ -75,15 +75,6 @@
 </div>
 
 
-###
-
-<h2 align="left">Proyectos Destacados</h2>
-
-###
-
-<p align="left">Aquí tienes algunos proyectos que podrían interesarte:<br><br>- **[Nombre del Proyecto]**: [Breve descripción]<br>- **[Nombre del Proyecto]**: [Breve descripción]<br>- **[Nombre del Proyecto]**: [Breve descripción]</p>
-
-###
 
 ###
 
