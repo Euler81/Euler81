@@ -6,8 +6,7 @@
 
 ###
 
-<p align="left">¡Hola! Soy Diego Euler un apasionado de la ciencia de datos . 
-<p A través de mi perfil de GitHub, comparto mis proyectos, contribuciones y aprendizajes en este emocionante campo.</p>
+<p align="left">¡Hola! Soy Diego Euler un apasionado de la ciencia de datos . A través de mi perfil de GitHub, comparto mis proyectos, contribuciones y aprendizajes en este emocionante campo.</p>
 
 ###
 
