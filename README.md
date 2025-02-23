@@ -71,7 +71,7 @@
 
 ###
 
-<h2 align="left">Contáctame</h2>
+<h2 align="left">📬 Contáctame</h2>
 
 ###
 
@@ -97,7 +97,7 @@
 
 ###
 
-<h2 align="left">Contribuciones</h2>
+<h2 align="left">💡 Contribuciones</h2>
 
 ###
 
@@ -106,7 +106,7 @@
 
 ###
 
-<h2 align="left">¡Conéctate conmigo!</h2>
+<h2 align="left">⭐ ¡Conéctate conmigo!</h2>
 
 ###
 
