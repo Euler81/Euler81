@@ -4,61 +4,49 @@
 
 # 🌟 Bienvenido a mi Repositorio
 
-### 
-
-👋  Hola, soy **Diego Euler**, un apasionado de la **Ciencia de Datos**. A través de mi perfil de GitHub, comparto mis proyectos, contribuciones y aprendizajes en este fascinante campo.
-
-
+👋 Hola, soy **Diego Euler**, un apasionado de la **Ciencia de Datos**. A través de este espacio en GitHub, comparto mis proyectos, contribuciones y aprendizajes en este fascinante campo.
 
 ---
 
 ## 🔧 Habilidades
 
-- 🌍 **Análisis de Datos**: Estadística, Probabilidades, Análisis Exploratorio de Datos (EDA).  
-- 🛠 **Bases de Datos**: Diseño, consultas y optimización en SQL y NoSQL.  
-- 🧼 **Procesamiento de Datos**: Limpieza, transformación e integración de datos.  
-- 🤖 **Machine Learning**: Construcción, evaluación e implementación de modelos predictivos.  
-- ⚙️ **Optimización de Modelos**: Ingeniería de características, selección de variables, ajuste de hiperparámetros.  
-- 📈 **Visualización de Datos**: Creación de dashboards y reportes con herramientas de BI.  
-- 🏢 **Gestión de Proyectos**: Documentación, planificación y metodologías ágiles.  
-- 🗣 **Comunicación & Presentación**: Explicación clara de resultados y toma de decisiones basada en datos.  
-- 🎯 **Resolución de Problemas**: Pensamiento crítico aplicado a contextos de Data Science.  
+- 🌍 **Análisis de Datos**: Estadística, Probabilidades, Análisis Exploratorio de Datos (EDA).
+- 🛠 **Bases de Datos**: Diseño, consultas y optimización en SQL y NoSQL.
+- 🧼 **Procesamiento de Datos**: Limpieza, transformación e integración de datos.
+- 🤖 **Machine Learning**: Construcción, evaluación e implementación de modelos predictivos.
+- ⚙️ **Optimización de Modelos**: Ingeniería de características, selección de variables, ajuste de hiperparámetros.
+- 📈 **Visualización de Datos**: Creación de dashboards y reportes con herramientas de BI.
+- 🏢 **Gestión de Proyectos**: Documentación, planificación y metodologías ágiles.
+- 🗣 **Comunicación & Presentación**: Explicación clara de resultados y toma de decisiones basada en datos.
+- 🎯 **Resolución de Problemas**: Pensamiento crítico aplicado a contextos de Data Science.
 
 ---
 
-
-
 ## 🔧 Tecnologías & Herramientas
 
-### 🎨 BI & Visualización
+### 🎨 **BI & Visualización**
 - **Power BI** | **Tableau** | **Looker Studio**
 
-### 🗃️ Bases de Datos & SQL
+### 🗃️ **Bases de Datos & SQL**
 - **MySQL** | **PostgreSQL** | **SQL Server** | **BigQuery**
 
-### 👨‍💻 Lenguajes de Programación
+### 👨‍💻 **Lenguajes de Programación**
 - **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - **R** (tidyverse, ggplot2, dplyr, caret)
 
-### 🤖 Machine Learning & IA
+### 🤖 **Machine Learning & IA**
 - **TensorFlow** | **Scikit-learn** | **PyTorch**
 
-### ☁️ Cloud & Big Data
+### ☁️ **Cloud & Big Data**
 - **AWS** (S3, Redshift) | **Google Cloud** | **Azure** | **Apache Spark**
 
-### 📂 ETL & Procesamiento de Datos
+### 📂 **ETL & Procesamiento de Datos**
 - **Alteryx** | **Apache Airflow** | **dbt**
 
-### 🛠️ Gestión & Colaboración
+### 🛠️ **Gestión & Colaboración**
 - **Jira** | **Trello** | **GitHub** | **Notion**
 
-
-
-
-
-
-###
-
+---
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
