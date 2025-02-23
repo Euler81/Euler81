@@ -125,5 +125,5 @@
 ###
 
 
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="diego-eduardo-euler-4546651ba" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/diego-eduardo-euler-4546651ba?trk=profile-badge">Diego E Euler</a></div>
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="diego-eduardo-euler-4546651ba" data-version="v1"><a class="badge-base__link LI-simple-link" href="[https://ar.linkedin.com/in/diego-eduardo-euler-4546651ba?trk=profile-badge](https://www.linkedin.com/in/diegoeuler-analytics/)">Diego E Euler</a></div>
               
