@@ -2,39 +2,53 @@
 
 
 
-<h1 align="left">¡Bienvenido a mi Repositorio!</h1>
+# 🌟 Bienvenido a mi Repositorio
 
-###
+### 
 
-<p align="left">¡Hola! Soy Diego Euler un apasionado de la ciencia de datos . A través de mi perfil de GitHub, comparto mis proyectos, contribuciones y aprendizajes en este emocionante campo.</p>
+👋  Hola, soy **Diego Euler**, un apasionado de la **Ciencia de Datos**. A través de mi perfil de GitHub, comparto mis proyectos, contribuciones y aprendizajes en este fascinante campo.
 
-###
+---
 
-<h2 align="left">Habilidades :</h2>
+## 🔧 Habilidades
 
-###
+- **Estadística y Probabilidades**  
+- **Bases de Datos**: Relacionales y No Relacionales  
+- **Limpieza y Preprocesamiento de Datos**  
+- **Análisis Exploratorio de Datos (EDA)**  
+- **Modelado y Evaluación de Algoritmos de Machine Learning**  
+- **Implementación y Optimización de Modelos**  
+- **Ingeniería de Características y Selección de Variables**  
+- **Interpretación y Visualización de Datos**  
+- **Gestión de Proyectos y Documentación**  
+- **Habilidades de Presentación y Comunicación**  
+- **Resolución de Problemas y Pensamiento Crítico**
 
-<p align="left">- Estadística.<br>- Bases de Datos - relacionales / no relacionales.<br>- Limpieza y Preprocesamiento de Datos.<br>- Análisis Exploratorio de Datos (EDA).<br>- Construcción y Evaluación de Modelos de Aprendizaje Automático.<br>- Implementación de Modelos de Aprendizaje Automático.<br>- Ingeniería y Selección de Características.<br>- Interpretación de Resultados de Modelos.<br>- Visualización e Interpretación de Datos.<br>- Gestión de Proyectos y Documentación.<br>- Habilidades de Presentación y Comunicación.<br>- Resolución de Problemas y Pensamiento Crítico en contextos de Data Science.</p>
+---
 
-###
+## 🔧 Tecnologías & Herramientas
 
-<h2 align="left">🛠️ HERRAMIENTAS & TECNOLOGÍAS: :</h2>
+### 🎨 BI & Visualización
+- **Power BI** | **Tableau** | **Looker Studio**
 
-###
+### 🗃️ Bases de Datos & SQL
+- **MySQL** | **PostgreSQL** | **SQL Server** | **BigQuery**
 
+### 👨‍💻 Lenguajes de Programación
+- **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- **R** (tidyverse, ggplot2, dplyr, caret)
 
+### 🤖 Machine Learning & IA
+- **TensorFlow** | **Scikit-learn** | **PyTorch**
 
-<br clear="both">
+### ☁️ Cloud & Big Data
+- **AWS** (S3, Redshift) | **Google Cloud** | **Azure** | **Apache Spark**
 
-<p align="left">
-- 📊 BI & Visualización: Power BI | Tableau | Looker Studio
-- 🗄️ Bases de Datos & SQL: MySQL | PostgreSQL | SQL Server | BigQuery
-- 🐍 Lenguajes de Programación: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) |📘 R (tidyverse, ggplot2, dplyr, caret)
-- 🤖 Machine Learning & IA: TensorFlow | Scikit-learn | PyTorch
-- ☁️ Cloud & Big Data: AWS (S3, Redshift) | Google Cloud | Azure | Apache Spark
-- 📂 ETL & Data Processing: Alteryx | Apache Airflow | dbt
-- 🛠️ Herramientas de Gestión & Colaboración: Jira | Trello | GitHub | Notion.:</h2>
+### 📂 ETL & Procesamiento de Datos
+- **Alteryx** | **Apache Airflow** | **dbt**
 
+### 🛠️ Gestión & Colaboración
+- **Jira** | **Trello** | **GitHub** | **Notion**
 
 
 
