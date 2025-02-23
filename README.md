@@ -45,7 +45,14 @@
 
 <br clear="both">
 
-<p align="left">- Modulos (librerías) Python : TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Keras, NLTK.<br>- Modulos (librerías) R : ggplot2, dplyr, tidyr, caret, randomForest, arules, neuralnet, forecast.<br>- Herramientas de inteligencia empresarial y visualización de datos : Tableau, Power BI, Looker.</p>
+<p align="left">- 🛠️ HERRAMIENTAS & TECNOLOGÍAS:
+📊 BI & Visualización: Power BI | Tableau | Looker Studio
+🗄️ Bases de Datos & SQL: MySQL | PostgreSQL | SQL Server | BigQuery
+🐍 Lenguajes de Programación: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) |📘 R (tidyverse, ggplot2, dplyr, caret)
+🤖 Machine Learning & IA: TensorFlow | Scikit-learn | PyTorch
+☁️ Cloud & Big Data: AWS (S3, Redshift) | Google Cloud | Azure | Apache Spark
+📂 ETL & Data Processing: Alteryx | Apache Airflow | dbt
+🛠️ Herramientas de Gestión & Colaboración: Jira | Trello | GitHub | Notion.</p>
 
 
 
