@@ -8,7 +8,7 @@
 
 ---
 
-## 🔧 Habilidades
+## 🧠 Habilidades
 
 - 🌍 **Análisis de Datos**: Estadística, Probabilidades, Análisis Exploratorio de Datos (EDA).
 - 🛠 **Bases de Datos**: Diseño, consultas y optimización en SQL y NoSQL.
