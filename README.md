@@ -8,23 +8,25 @@
 
 👋  Hola, soy **Diego Euler**, un apasionado de la **Ciencia de Datos**. A través de mi perfil de GitHub, comparto mis proyectos, contribuciones y aprendizajes en este fascinante campo.
 
+
+
 ---
 
 ## 🔧 Habilidades
 
-- **Estadística y Probabilidades**  
-- **Bases de Datos**: Relacionales y No Relacionales  
-- **Limpieza y Preprocesamiento de Datos**  
-- **Análisis Exploratorio de Datos (EDA)**  
-- **Modelado y Evaluación de Algoritmos de Machine Learning**  
-- **Implementación y Optimización de Modelos**  
-- **Ingeniería de Características y Selección de Variables**  
-- **Interpretación y Visualización de Datos**  
-- **Gestión de Proyectos y Documentación**  
-- **Habilidades de Presentación y Comunicación**  
-- **Resolución de Problemas y Pensamiento Crítico**
+- 🌍 **Análisis de Datos**: Estadística, Probabilidades, Análisis Exploratorio de Datos (EDA).  
+- 🛠 **Bases de Datos**: Diseño, consultas y optimización en SQL y NoSQL.  
+- 🧼 **Procesamiento de Datos**: Limpieza, transformación e integración de datos.  
+- 🤖 **Machine Learning**: Construcción, evaluación e implementación de modelos predictivos.  
+- ⚙️ **Optimización de Modelos**: Ingeniería de características, selección de variables, ajuste de hiperparámetros.  
+- 📈 **Visualización de Datos**: Creación de dashboards y reportes con herramientas de BI.  
+- 🏢 **Gestión de Proyectos**: Documentación, planificación y metodologías ágiles.  
+- 🗣 **Comunicación & Presentación**: Explicación clara de resultados y toma de decisiones basada en datos.  
+- 🎯 **Resolución de Problemas**: Pensamiento crítico aplicado a contextos de Data Science.  
 
 ---
+
+
 
 ## 🔧 Tecnologías & Herramientas
 
