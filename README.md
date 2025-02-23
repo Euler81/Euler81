@@ -46,13 +46,13 @@
 <br clear="both">
 
 <p align="left">- 🛠️ HERRAMIENTAS & TECNOLOGÍAS:
-📊 BI & Visualización: Power BI | Tableau | Looker Studio
-🗄️ Bases de Datos & SQL: MySQL | PostgreSQL | SQL Server | BigQuery
-🐍 Lenguajes de Programación: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) |📘 R (tidyverse, ggplot2, dplyr, caret)
-🤖 Machine Learning & IA: TensorFlow | Scikit-learn | PyTorch
-☁️ Cloud & Big Data: AWS (S3, Redshift) | Google Cloud | Azure | Apache Spark
-📂 ETL & Data Processing: Alteryx | Apache Airflow | dbt
-🛠️ Herramientas de Gestión & Colaboración: Jira | Trello | GitHub | Notion.</p>
+- 📊 BI & Visualización: Power BI | Tableau | Looker Studio
+- 🗄️ Bases de Datos & SQL: MySQL | PostgreSQL | SQL Server | BigQuery
+- 🐍 Lenguajes de Programación: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) |📘 R (tidyverse, ggplot2, dplyr, caret)
+- 🤖 Machine Learning & IA: TensorFlow | Scikit-learn | PyTorch
+- ☁️ Cloud & Big Data: AWS (S3, Redshift) | Google Cloud | Azure | Apache Spark
+- 📂 ETL & Data Processing: Alteryx | Apache Airflow | dbt
+- 🛠️ Herramientas de Gestión & Colaboración: Jira | Trello | GitHub | Notion.</p>
 
 
 
